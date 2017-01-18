@@ -42,17 +42,3 @@ public class StringManip
    }
 }
 
-/*---------------------------OUTPUT-------------------------------------
- Please enter your name. Capitalize the first letter of each name: 
-Faye Revah
-Your full name is Faye Revah
-The length of your name is: 10
-Upper Case: FAYE REVAH
-Lower Case: faye revah
-
-You must work between 12 and 20 in this class.
-Please enter the number of hours you have worked to three decimal places.
-19.453
-You have worked 19.5 hours
- 
-*/
